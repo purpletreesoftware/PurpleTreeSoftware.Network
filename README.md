@@ -1,5 +1,5 @@
 # PurpleTreeSoftware.Network
-Network Client and Server for sending messages in UWP applications
+Network Client and Server for sending messages in .Net C# UWP applications
 
 
 At a reference to your project
