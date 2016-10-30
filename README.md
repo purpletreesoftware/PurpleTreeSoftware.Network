@@ -20,7 +20,7 @@ public static class Provider
     }
 ```
 
-THen you can start a server listener
+Then you can start a server listener
 ```
    Host host = new Host(new HostName("192.168.0.1"));
    String port = 43243
