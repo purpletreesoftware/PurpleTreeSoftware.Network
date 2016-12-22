@@ -2,7 +2,7 @@
 Network Client and Server for sending messages in .Net C# UWP applications
 
 
-At a reference to your project
+Add a reference to your project
 ```
 using PurpleTreeSoftware.Network;
 ```
